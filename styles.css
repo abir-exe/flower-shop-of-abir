@@ -118,6 +118,7 @@ body {
     font-style: normal;
     font-weight: 800;
     line-height: normal;
+    margin-bottom: 20px;
 }
 
 .instagram-description {
@@ -128,4 +129,20 @@ body {
     font-style: normal;
     font-weight: 400;
     line-height: 30px;
+    margin-bottom: 30px;
+}
+.instagram-pic-container{
+    display: flex;
+    
+    width: 100%;
+    
+    justify-content: space-evenly;
+    
+    
+}
+.instagram-pic{
+    width: 250px;
+    height: 270px;
+    align-items: center;
+    margin: 0px;
 }
