@@ -110,6 +110,9 @@ body {
 
 /*instagram part*/
 
+.instagram{
+    margin-bottom: 15vh;
+}
 .instagram-title {
     color: #272727;
     text-align: center;
@@ -132,11 +135,11 @@ body {
     margin-bottom: 30px;
 }
 .instagram-pic-container{
+    
     display: flex;
     
-    width: 100%;
-    
     justify-content: space-evenly;
+    
     
     
 }
