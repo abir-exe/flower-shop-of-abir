@@ -10,6 +10,46 @@ body {
 
 /*header section*/
 
+/*nav section*/
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0;
+    padding: 20px;
+    background-color: #0598a017;
+}
+nav>ul {
+    display: flex;
+    align-items: center;
+
+}
+nav li {
+    margin-right: 50px;
+    list-style: none;
+}
+.btn-nav{
+    padding: 15px 30px;
+    background-color: #E55473;
+    color: white;
+    border-radius: 30px;
+    border: none;
+}
+.btn:hover{
+    cursor: pointer;
+    background-color: white;
+    color: #E55473;
+
+}
+.btn-nav:hover{
+    cursor: pointer;
+    background-color: white;
+    color: #E55473;
+}
+
+
+/*banner section*/
 .banner-container {
     padding: 30px;
     display: flex;
