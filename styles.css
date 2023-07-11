@@ -96,10 +96,11 @@ body {
     text-align: center;
     margin-top: 15px;
     margin-bottom: 18px;
-    
+
 
 }
-.hot-deal-items{
+
+.hot-deal-items {
     text-align: center;
 }
 
@@ -110,9 +111,10 @@ body {
 
 /*instagram part*/
 
-.instagram{
+.instagram {
     margin-bottom: 15vh;
 }
+
 .instagram-title {
     color: #272727;
     text-align: center;
@@ -134,18 +136,64 @@ body {
     line-height: 30px;
     margin-bottom: 30px;
 }
-.instagram-pic-container{
-    
+
+.instagram-pic-container {
+
     display: flex;
-    
+
     justify-content: space-evenly;
-    
-    
-    
+
+
+
 }
-.instagram-pic{
+
+.instagram-pic {
     width: 250px;
     height: 270px;
     align-items: center;
     margin: 0px;
+}
+
+/*footer section*/
+.footer-div {
+    background-color: #111010;
+    color: white;
+    padding-top: 120px;
+    padding-bottom: 100px;
+}
+
+.footer-title {
+
+    
+    font-size: 48px;
+
+    font-weight: 600;
+    text-align: center;
+
+}
+
+.pink {
+    color: #E55473;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.699);
+    text-align: center;
+
+    font-size: 16px;
+
+    font-weight: 00;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    
+
+}
+
+.down-text {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+
+    font-size: 12px;
+
+    font-weight: 400;
 }
