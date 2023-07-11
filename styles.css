@@ -154,6 +154,68 @@ body {
     margin: 0px;
 }
 
+
+/*latest deal items*/
+
+.latest-deal-banner {
+    background-image: url('Rectangle\ 9.png');
+    height: 50vh;
+    width: 87%;
+    margin: auto;
+    margin-bottom: 15vh;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+.mod{
+    margin-bottom: 70px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0);
+}
+
+.latest-deal-title{
+    color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+
+
+}
+
+.latest-deal-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+margin-top: 10px;
+    font-size: 18px;
+
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 30px;
+}
+.latest-deal-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.email-button {
+    padding: 15px 35px;
+    background-color: white;
+    color: pink;
+    width: 200px;
+    border-radius: 3px;
+    border: none;
+    width: 500px;
+    margin-right: 5px;
+    
+}
+
+
 /*footer section*/
 .footer-div {
     background-color: #111010;
@@ -164,7 +226,7 @@ body {
 
 .footer-title {
 
-    
+
     font-size: 48px;
 
     font-weight: 600;
@@ -185,7 +247,7 @@ body {
     font-weight: 00;
     margin-top: 20px;
     margin-bottom: 30px;
-    
+
 
 }
 
